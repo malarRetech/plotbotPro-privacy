@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at Plotbot MobileApp, how *Plotbot MobileApp uses it, and what choices you have.
-Plotbot MobileApp built the Plotbot MobileApp app as a free app. This SERVICE is provided by Plotbot MobileApp at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at Retech Lasers, how Plotbot Pro uses it, and what choices you have.
+Retech Lasers built the Plotbot MobileApp app as a free app. This SERVICE is provided by Plotbot MobileApp at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
@@ -21,6 +21,9 @@ Some of the services may use location information transmitted from users' mobile
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+
+### Bluetooth Permissions
+For enhanced functionality, our Service may require access to your device's Bluetooth. This access is used to connect with nearby devices for features such as location-based services, data sharing, or device synchronization. The app will request your explicit permission to access Bluetooth. We collect minimal data necessary for these features and do not store or transmit any personal information through Bluetooth without your consent. This data is treated with the same high level of security and privacy as all other personal information in accordance with this policy.
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
